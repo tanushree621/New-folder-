@@ -12,7 +12,7 @@ int main()
    cout << f << endl;
 
    int size = sizeof(a);
-   cout << "Size of int "<< size << endl;
+   cout << "Size of int is this lalala "<< size << endl;
 
    char ch = 56;
    cout << ch << endl; 
